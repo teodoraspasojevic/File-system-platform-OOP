@@ -1,4 +1,4 @@
-# File-system-platform-oop
+# File-system-platform-OOP
 Implementation of a file system platform, using object oriented programming and a tree as a data structure.
 
 **Implementation**
